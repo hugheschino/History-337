@@ -70,9 +70,9 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/3_29_50_Block_McCarthyism.jpg"
+  image-path="images/Block_McCarthyism.jpg"
   image-position="right"
-  image-width="30%"
+  image-width="45%"
   caption="Editorial cartoonist Herb Block is credited with coining the term McCarthyism in 1950 with this cartoon for *The Washington Post.*"
   text=chile_nm_text
 %}
