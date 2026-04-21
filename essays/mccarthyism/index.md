@@ -43,7 +43,7 @@ Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first 
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\".We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy.\"" %}
+{% include typography/pullquote.html text="\"One thing to remember in discussing the communists in our government is that....We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy.\"" %}
 
 In response to McCarthy's claims, the American public and press did not ask for evidence supporting these allegations, but reacted with demands that the State Department purge those employees from government service.   
 
