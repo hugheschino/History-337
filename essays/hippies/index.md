@@ -1,10 +1,10 @@
 ---
-title: "Hippies"
+title: "Crisis Brewing"
 layout: scrollstory-tabs
 header-image: images/hippies.jpg
 header-title: "The Hippie Movement"
 thumbnail: images/hippies.jpg
-summary: A history of the Hippie Movement.
+summary: Peepeepoopoo.
 tabs:
   - id: overview
     label: Overview of Hippies
