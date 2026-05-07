@@ -1,9 +1,9 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: images/hippies.jpg
+header-image: images/vatt.jpeg
 header-title: "The Hippie Movement"
-thumbnail: images/hippies.jpg
+thumbnail: images/vatt.jpeg
 summary: A history of the Hippie Movement.
 tabs:
   - id: overview
