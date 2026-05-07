@@ -46,7 +46,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"How did the Craft Beer Movement emerge from California’s localist, hobbyist, and counterculture, and what does its development reveal about neoliberalism, entrepreneurship, American cultural identity in American society at the end of the 20th century?\"" %}
+{% include typography/pullquote.html text="\"How did the Craft Beer Movement emerge from California’s localist, hobbyist, and counterculture, and what does its development reveal about neoliberalism, entrepreneurship, and American cultural identity in American society at the end of the 20th century?\"" %}
 
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
