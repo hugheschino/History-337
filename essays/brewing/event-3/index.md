@@ -1,9 +1,9 @@
 ---
 title: "The Craft Brewing Movement"
 layout: scrollstory-tabs
-header-image: ../images/hippies.jpg
+header-image: ../images/manvatt.jpeg
 header-title: "The Hippie Movement"
-thumbnail: ../images/hippies.jpg
+thumbnail: ../images/manvatt.jpeg
 summary: A history of the Hippie Movement.
 tabs:
   - id: overview

@@ -1,9 +1,9 @@
 ---
 title: "HELP"
 layout: scrollstory-tabs
-header-image: ../images/vatt.jpeg
+header-image: ../images/manvatt.jpeg
 header-title: "Hippies"
-thumbnail: ../images/vatt.jpeg
+thumbnail: ../images/manvatt.jpeg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
