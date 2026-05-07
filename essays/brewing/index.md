@@ -36,7 +36,6 @@ The Craft Beer Movement of the late 20th century emerged in California from hobb
 {% capture chile_origins_text %}
 After the financial crises of the 20th century, including the welfare crisis of the 1960s and the oil shocks of the 1970s, the American consciousness began to shift further toward notions of economic independence. As the postwar economy began to stagnate, the portion of the upper middle and wealthy class that witnessed wealth concentration began to seek “a more specialized and symbolically complex consumer lifestyle.”   The crisis in welfare capitalism also had the “unusual effect of… the revitalization of ideas about entrepreneurship, creativity and innovation.”   Specialized consumer lifestyles and the perceived need to imagine an economy unreliant on Middle Eastern oil and global economies gave rise to the farm-to-table and localism movements, and, with renewed entrepreneurial imagination, the Craft Brewing Movement emerged.
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
 {% endcapture %}
 
 {% include images/figure-wrap.html
