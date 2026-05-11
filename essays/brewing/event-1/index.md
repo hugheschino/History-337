@@ -35,6 +35,7 @@ Late 20th-century California had a distinct counterculture atmosphere. At the Un
 
 {% include typography/pullquote.html text="\"For freedom is not the capacity to do whatever we please; freedom is the capacity to make intelligent choices.”\"" %}
 
+The Localism Movement greatly influenced the Craft Beer Movement. The first female brewmaster in the United States, Mellie Pullman, reflected these trends in the Western Craft Brewing Movement. “I'm like the typical Portlander. Completely obsessed with all of it. Going to the newest restaurants and trying to support local producers.”   In Utah, Pullman “came up with a lager, called the Slickrock Lager, and it was really marketed toward the mountain biking community.”   Her reflection on the lager is a direct response to catering to the community when they might defer to something standardized like Coors. Sociologists and cultural geographers have acknowledged the utility of breweries as “anchor points” and coined the term “neolocalism” to describe the modern, evolving taste for local products and identity.   This tendency, then, is rooted in the localism movement and helps explain how breweries have remained economically viable well into the 21st century. 
 
 {% include images/figure-wrap.html
   image-path="../images/vatt.jpeg"
@@ -44,7 +45,6 @@ Late 20th-century California had a distinct counterculture atmosphere. At the Un
   text=chile_origins_text
 %}
 
-The Localism Movement greatly influenced the Craft Beer Movement. The first female brewmaster in the United States, Mellie Pullman, reflected these trends in the Western Craft Brewing Movement. “I'm like the typical Portlander. Completely obsessed with all of it. Going to the newest restaurants and trying to support local producers.”   In Utah, Pullman “came up with a lager, called the Slickrock Lager, and it was really marketed toward the mountain biking community.”   Her reflection on the lager is a direct response to catering to the community when they might defer to something standardized like Coors. Sociologists and cultural geographers have acknowledged the utility of breweries as “anchor points” and coined the term “neolocalism” to describe the modern, evolving taste for local products and identity.   This tendency, then, is rooted in the localism movement and helps explain how breweries have remained economically viable well into the 21st century. 
 
 ## Epistemology
 
