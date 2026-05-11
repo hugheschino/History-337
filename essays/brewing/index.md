@@ -48,16 +48,13 @@ After the financial crises of the 20th century, including the welfare crisis of 
 
 {% include typography/pullquote.html text="\"How did the Craft Beer Movement emerge from California’s localist, hobbyist, and counterculture, and what does its development reveal about neoliberalism, entrepreneurship, and American cultural identity in American society at the end of the 20th century?\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
+## Stagnant Industry
 
-## The Global Circulation
+For decades prior, though, the alternative brewing and craft scene had remained stagnant, and large corporations dominated the market. “When Prohibition ended in 1933, many homebrewers returned to buying professionally made beer, and most homebrewing activities declined.”   Until the 1970s, large corporations, including Anheuser-Busch, Coors, and Miller Brewing Company, dominated the beer market. In the postwar era, homebrewing remained illegal nationally. 
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+{% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %}
 
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
-
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
 
 
 ## The New Mexican Obsession
