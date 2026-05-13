@@ -39,7 +39,7 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
   image-path="../images/hoptoit.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Instead of safeguarding his brewing secrets, Terry Robinson shared his recipe with the Washington Post, revealing a critical aspect of the Craft Beer Movement: the democratization of brewing knowledge."
   text=chile_origins_text
 %}
 
