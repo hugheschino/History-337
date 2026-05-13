@@ -71,7 +71,10 @@ The movement took a hobbyist form early. Jack McAuliffe, craft brewing pioneer a
 
 By 1986, prominent newspaper outlets such as The New York Times reported that “Small Breweries [were] Enjoying a Revival.” The subject of the article, Hopland Brewery, Tavern, Beer Garden and Restaurant, had recently purchased its brewing equipment from McAuliffe’s New Albion Brewing. While the brewery was ahead of its time, it was unable to secure financial viability in the same way as breweries that were serving in-house were. 
 
+{% include typography/pullquote.html text="\"Most brewpub proprietors are longtime home-brewers and the beer tends to reflect individual tastes… Brewpub beer is sometimes inconsistent, but it is always remarkably fresh tasting, much in the way that homemade bread compares to the commercial variety.\"" %}
+
 “Most brewpub proprietors are longtime home-brewers and the beer tends to reflect individual tastes… Brewpub beer is sometimes inconsistent, but it is always remarkably fresh tasting, much in the way that homemade bread compares to the commercial variety.”  
+
 The article even mentions Bill Owens who shares his vision for the brewery: ''No Pac-Man, no big-screen TV, no jukebox and no Boston ferns - just fine beer and the lost art of conversation.''   By the middle of the 1980s, the nation’s “newspaper of record” had begun to identify the emerging alternative industry. The article’s reporter, Lawrence M. Fisher, aptly identified the Movement’s epistemological nature, reporting that ”Brewpubs create their own clientele almost instantaneously, through word of mouth.”   
 
 ## Section
