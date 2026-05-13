@@ -55,8 +55,6 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
 
 {% endcapture %}
 
-{% include typography/pullquote.html text="\"The United States beer revival is often attributed to two brewers: Fritz Maytag purchasing the faltering, iconic Anchor Brewing Company in 1965 in San Francisco, California and Jack McAuliffe opening the first microbrewery, New Albion Brewing, in 1976 in Sonoma, California. These brewers set a pattern for other craft breweries to be small, independent, and traditional, and they created a legacy of brewers helping one another.\"" %}
-
 {% include images/figure-wrap.html
   image-path="images/OWENSVAT.png"
   image-position="left"
@@ -64,6 +62,8 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
+
+{% include typography/pullquote.html text="\"The United States beer revival is often attributed to two brewers: Fritz Maytag purchasing the faltering, iconic Anchor Brewing Company in 1965 in San Francisco, California and Jack McAuliffe opening the first microbrewery, New Albion Brewing, in 1976 in Sonoma, California. These brewers set a pattern for other craft breweries to be small, independent, and traditional, and they created a legacy of brewers helping one another.\"" %}
 
 ## Modern Farmers and Preservationists
 
