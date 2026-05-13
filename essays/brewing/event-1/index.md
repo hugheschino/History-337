@@ -53,6 +53,8 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
 {% capture chile_origins_text %}
 Craft brewing is not only a form of corporate dissent but also a particular epistemological nature. Pullman had plenty of chances to profit, but instead, declined: “People always ask me to come and do consulting. No, that's not my thing. I'm just education. I'm not consulting.”   The collaborative nature in the Craft Brewing Industry is so pronounced that sociologists have study the phenomenon. “One might have a preconceived notion that most brewers would want to keep their knowledge a secret, especially recipes or special techniques; however, as many homebrewers interviewed stated, they were willing to share their knowledge and “feed” off of each other.”   This phenomenon evidently was a precedent set by early home and craft brewers, who had to experiment, jerry rig, or otherwise “DIY” their brewing equipment, and create their own recipes. 
 
+{% include typography/pullquote.html text="\"The United States beer revival is often attributed to two brewers: Fritz Maytag purchasing the faltering, iconic Anchor Brewing Company in 1965 in San Francisco, California and Jack McAuliffe opening the first microbrewery, New Albion Brewing, in 1976 in Sonoma, California. These brewers set a pattern for other craft breweries to be small, independent, and traditional, and they created a legacy of brewers helping one another.\"" %}
+
 {% endcapture %}
 
 {% include images/figure-wrap.html
