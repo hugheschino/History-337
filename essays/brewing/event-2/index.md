@@ -48,7 +48,7 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
   image-path="../images/hopoffit.png"
   image-position="right"
   image-width="87%"
-  caption="Oregon Hops & Brewing Archives, Oregon State University. Grant's Brewery Equipment. Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
+  caption="By Ann CorbettSpecial to The,Washington Post. (1979, Jul 05). Hop to it: Brewing beer at home: Cheaper beer the way it used to taste getting ahead in the beer game with homemade brew. The Washington Post (1974-) Retrieved from https://libproxy.unm.edu/login?url=https://www.proquest.com/newspapers/hop-brewing-beer-at-home/docview/147056600/se-2"
   text=chile_origins_text
 %}
 
