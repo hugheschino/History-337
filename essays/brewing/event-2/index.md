@@ -44,7 +44,7 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
 where the fuck is my image
 
 {% include images/figure-wrap.html
-  image-path="../images/hoptoit.jpg"
+  image-path="../images/hopoffit.png"
   image-position="right"
   image-width="50%"
   caption="Oregon Hops & Brewing Archives, Oregon State University. Grant's Brewery Equipment. Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
@@ -73,7 +73,7 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
    image-path="../images/vatt.jpeg"
    image-position="left"
    image-width="48%"
-   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+    caption="Oregon Hops & Brewing Archives, Oregon State University. Grant's Brewery Equipment. Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
    text=chile_origins_text
 %}
 
