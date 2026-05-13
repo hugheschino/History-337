@@ -45,7 +45,7 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
   image-path="../images/hoptoit.jpg"
   image-position="right"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Oregon Hops & Brewing Archives, Oregon State University. "Grant's Brewery Equipment" Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
   text=chile_origins_text
 %}
 
