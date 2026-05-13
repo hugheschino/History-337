@@ -107,8 +107,7 @@ But there's also a renaissance. Heirloom chile varieties are being preserved and
 
 The carousel below shows the diversity of modern chile culture:
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
+
 
 **The varieties tell a story:**
 - Pueblo chiles: small, early, adapted to high elevations
