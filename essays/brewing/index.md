@@ -49,13 +49,15 @@ After the financial crises of the 20th century, including the welfare crisis of 
 %}
 
 
-## Stagnant Industry
+## Flat Industry
 
 For decades prior to the Craft Brewing Movement, the alternative brewing and craft scene had remained stagnant, and large corporations dominated the market. “When Prohibition ended in 1933, many homebrewers returned to buying professionally made beer, and most homebrewing activities declined.”   Until the 1970s, large corporations, including Anheuser-Busch, Coors, and Miller Brewing Company, dominated the beer market. In the postwar era, homebrewing remained illegal nationally. 
 
 {% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %}
 
-Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco).  
+Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. 
+
+The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco).  
 
 <style>
 #chile-types img {
