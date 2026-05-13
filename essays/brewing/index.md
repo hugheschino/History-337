@@ -62,7 +62,7 @@ Homebrewing remained illegal in the United States until California State Assembl
 
 While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, the Homebrewing Act was essential for the modern brewery phenomenon as we understand it to emerge. McAuliffe had merely been “hand bottling his beer and self-distributing it, driving between bars and restaurants in the Bay Area to deliver beer from his trunk.”   While Buffalo Bill’s is the third brewpub in the nation, it is the first brewpub in the US with a long draft system, drawing beer down a 62-foot line from the bright tank (storage tank under pressure) to the tap.”   It fundamentally reimagined the landscape in which Americans would gather to drink and revolutionized the nature of those spaces, with brewing in house becoming a symbol of pride and locality. 
 
-## Abolishing Drunk Shaming
+## Liberalizing the Lager
 
 The Bates Bill represents two key shifts in American culture in the late 1970s. More broadly, it represents the neoliberal shift toward government deregulation and the effective creation of a hobbyist-to-entrepreneur pipeline for Craft and Home Brewers. For the movement itself, it created the circumstances for the Craft Brewing Revolution to occur, which fundamentally altered the landscape and nature of the places the Americans would gather to drink. 
  
@@ -71,62 +71,7 @@ The Bates Bill represents two key shifts in American culture in the late 1970s. 
 
 The Bates Bill exemplifies a broader trend within American society in the 1970s and 80s, effectively creating a hobbyist to entrepreneur pipeline for Craft and Home Brewers. 
 
-## The New Mexican Obsession
 
-{% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
-
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
-  image-position="right"
-  image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
-  text=chile_nm_text
-%}
-
-
-## The Chemistry of Heat and Culture
-
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
-
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
-
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
-
-
-## Modern Variations and Challenges
-
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
-
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
-
-The carousel below shows the diversity of modern chile culture:
-
-
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
-
-
-## The Future of Southwest Identity
-
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
-
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
 
 ---
 
