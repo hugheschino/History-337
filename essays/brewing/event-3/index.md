@@ -46,6 +46,8 @@ Despite being the first female brewmaster, Mellie Pullman explains that she “f
 
 The emerging homogenic nature of the Craft Brewing Movement and the prevailing industry was largely dictated by the neoliberal reorganization of American economic systems, privileging those who wielded the cultural, economic, and social capital. 
 
+## Dark Beer 
+
 Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. In 1984, Black Americans consumed 80 percent of the malt liquor produced in the United States and Nathaniel G. Chapman and David L. Brunsma explain that racially targeted marketing “sold “cheaper products of lesser quality to communities of color.”   Though Leon Oldham and Curtis Dilworth successfully established “Big Man” malt liquor in Georgia and were touted as “Brewery entrepreneurs.”   
 
 
