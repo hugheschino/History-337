@@ -68,7 +68,7 @@ Despite being the first female brewmaster, Mellie Pullman explains that she “f
 
 The emerging homogenic nature of the Craft Brewing Movement and the prevailing industry was largely dictated by the neoliberal reorganization of American economic systems, privileging those who wielded the cultural, economic, and social capital. 
 
-## Marginalized Liqour 
+## Segregated Market Structures  
 
 {% capture chile_origins_text %}
 Black brewers and entrepreneurs in the late 20th century were still celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. 
