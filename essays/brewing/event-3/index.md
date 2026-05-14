@@ -71,7 +71,11 @@ The emerging homogenic nature of the Craft Brewing Movement and the prevailing i
 ## Marginalized Liqour 
 
 {% capture chile_origins_text %}
-Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. In 1984, Black Americans consumed 80 percent of the malt liquor produced in the United States and Nathaniel G. Chapman and David L. Brunsma explain that racially targeted marketing “sold “cheaper products of lesser quality to communities of color.”   Though Leon Oldham and Curtis Dilworth successfully established “Big Man” malt liquor in Georgia and were touted as “Brewery entrepreneurs.”  
+Black brewers and entrepreneurs in the late 20th century were still celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. 
+
+In 1984, Black Americans consumed 80 percent of the malt liquor produced in the United States and Nathaniel G. Chapman and David L. Brunsma explain that racially targeted marketing “sold “cheaper products of lesser quality to communities of color.”   Though Leon Oldham and Curtis Dilworth successfully established “Big Man” malt liquor in Georgia and were touted as “Brewery entrepreneurs.” 
+
+While the Craft Beer Movement itself was never inherently white, the broader cultural and economic atmosphere in which it emerged reproduced segregated market structures. 
 
  [^footnote40]
 
@@ -87,3 +91,4 @@ Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Mov
   text=chile_origins_text
 %}
 
+## Conclusion 
