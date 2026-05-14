@@ -86,7 +86,7 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
    text=chile_origins_text
 %}
 
-## Undeveloped Shift 
+## Apostacy
 
 By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry in 1988. “Initially, brewers were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.” [^footnote29]  What began as an alternative to standardized beer and began as a counterculture movement started to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.[^footnote30] By the 1990s, the Craft Brewing Industry was enduring a critical shift toward commodification and competition that transcended Bill Owens' quest to merely be the first "true" brewery. 
 
@@ -96,8 +96,8 @@ By the turn of the 1990s, though, the Craft Brewing industry was undergoing a sh
 
 ## Conclusion
 
-Homebrewers and localists were contributing to the character of the Craft Beer Revolution long before the catalyzing Bates Bill. While the bill itself and its deregulatory nature may be situated within broader neoliberal trends, the movements founders and its tenets including collaboration, the preferance for authenticity over mass production, and hobbyism. 
+Homebrewers and localists were contributing to the character of the Craft Beer Revolution long before the catalyzing Bates Bill. While the bill itself and its deregulatory nature may be situated within broader neoliberal trends, craft brewers retained their cultural identity as hobbyists, collaborators, and innovators for the better part of a decade before the commercialization of the industry complicated the Craft Beer Movement's narrative. 
 
-"As bigger businesses... [breweries] became beholden to finance, mergers, take overs, etc." [^footnote31]
+"As bigger businesses... [breweries] became beholden to finance, mergers, take overs, etc." [^footnote31] Market competition, investment obligations, and buyouts have undermined the Craft Beer Momvement's initial tenets, and the struggle between market logics and authenticity have defined the brewery landscape well into the 21st century. 
 
 [^footnote31]: Shumar, Wesley, and Tyson Mitman. Producing and Consuming the Craft Beer Movement. Taylor & Francis, 2023, 5. 
