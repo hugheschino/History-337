@@ -93,6 +93,4 @@ While the Craft Beer Movement itself was never inherently white, the broader cul
 
 ## Conclusion 
 
-The Craft Brewing Movement emerged in the late 20th century as resistance to homogeneous mass-production in the brewing industry. 
-
-Craft brewing promoted itself as resisting homogenized corporate capitalism through community-oriented production and shared knowledge, yet the broader beer industry continued reproducing racialized consumption patterns and unequal access to economic opportunity.
+The Craft Brewing Movement emerged in the late 20th century as resistance to standardized mass-production in the brewing industry. Although it is praised for its community orientation and resistance to corporate capitalism, within its evolution were the subtle reproductions of various inequalites that persisted through even neoliberal economic reorganization. While the Craft Brewing Movement was not inherently white, and while it successful in creating more space to reject post-war standardized and homogenous production, the nature of the Craft Brewing Movement itself remained largely homogenous. 
