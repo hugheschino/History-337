@@ -92,7 +92,7 @@ By the turn of the 1990s, though, the Craft Brewing industry was undergoing a sh
 
 [^footnote29]: Thomas M. Burns, Jr., Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
 
-[^footnote30]: Francis W. Cattani, Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
+[^footnote30]: Francis W. Cattani, Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf
 
 ## Conclusion
 
