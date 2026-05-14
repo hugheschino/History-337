@@ -46,20 +46,31 @@ After the financial crises of the 20th century, including the welfare crisis of 
   image-path="images/gas.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="."
   text=chile_origins_text
 %}
 
 
 ## Flat Industry
 
-For decades prior to the Craft Brewing Movement, the alternative brewing and craft scene had remained stagnant, and large corporations dominated the market. “When Prohibition ended in 1933, many homebrewers returned to buying professionally made beer, and most homebrewing activities declined.”   Until the 1970s, large corporations, including Anheuser-Busch, Coors, and Miller Brewing Company, dominated the beer market. In the postwar era, homebrewing remained illegal nationally. 
+For decades prior to the Craft Brewing Movement, the alternative brewing and craft scene had remained stagnant, and large corporations dominated the market. “When Prohibition ended in 1933, many homebrewers returned to buying professionally made beer, and most homebrewing activities declined.” [^footnote2] Until the 1970s, large corporations, including Anheuser-Busch, Coors, and Miller Brewing Company, dominated the beer market. In the postwar era, homebrewing remained illegal nationally. 
 
-{% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %}
+[^footnote2]: John Harry, “Jimmy Carter: American Homebrew Hero?,” National Museum of American History , September 30, 2019, https://americanhistory.si.edu/explore/stories/jimmy-carter-american-homebrew-hero.
 
-Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. 
+{% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.[^footnote3]\"" %}
 
-The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco).  
+[^footnote3]: John Harry, “Jimmy Carter: American Homebrew Hero?,” National Museum of American History , September 30, 2019, https://americanhistory.si.edu/explore/stories/jimmy-carter-american-homebrew-hero.
+
+Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually” in 1978 [^footnote4] The bill would serve as a model for federal legislation passed by the end of the same year. [^footnote5] Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. 
+
+[^footnote4]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 30. https://doi.org/10.22371/02.2017.018. 
+
+[^footnote5]: Home Brew Act of 1978, H.R.1337, 95th Congress. 1977 (enacted). https://www.congress.gov/bill/95th-congress/house-bill/1337/text
+
+The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco). [^footnote6]
+
+[^footnote6]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 30. https://doi.org/10.22371/02.2017.018. 
+
 
 <style>
 #chile-types img {
@@ -73,7 +84,21 @@ The only caveat of the Bates Bill was that, in order to kill the opposition from
 {% assign images_list = "images/bbb.jpg,images/ibbb.png,images/ibbb.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
-While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, the Homebrewing Act was essential for the modern brewery phenomenon as we understand it to emerge. McAuliffe had merely been “hand bottling his beer and self-distributing it, driving between bars and restaurants in the Bay Area to deliver beer from his trunk.”   While Buffalo Bill’s is the third brewpub in the nation, it is the first brewpub in the US with a long draft system, drawing beer down a 62-foot line from the bright tank (storage tank under pressure) to the tap.”   It fundamentally reimagined the landscape in which Americans would gather to drink and revolutionized the nature of those spaces, with brewing in house becoming a symbol of pride and locality. 
+[^footnote7] [^footnote8] [^footnote9] 
+
+[^footnote7]: Bill Owens. Buffalo Bill’s Brewery in 1983. 1983, Color Photograph. Bill Owens Personal Archives.
+
+[^footnote8]: “Buffalo Bill’s History,” Buffalo Bill's Brewery, accessed May 13, 2026. https://www.buffalobillsbrewery.com/buffalo-bills-history/. 
+
+[^footnote9] “Buffalo Bill’s History,” Buffalo Bill's Brewery, accessed May 13, 2026. https://www.buffalobillsbrewery.com/buffalo-bills-history/. 
+
+While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.” [^footnote10] From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, the Homebrewing Act was essential for the modern brewery phenomenon as we understand it to emerge. McAuliffe had merely been “hand bottling his beer and self-distributing it, driving between bars and restaurants in the Bay Area to deliver beer from his trunk.” [^footnote11]  While Buffalo Bill’s is the third brewpub in the nation, it is the first brewpub in the US with a long draft system, drawing beer down a 62-foot line from the bright tank (storage tank under pressure) to the tap.” [^footnote12] It fundamentally reimagined the landscape in which Americans would gather to drink and revolutionized the nature of those spaces, with brewing in house becoming a symbol of pride and locality. 
+
+[^footnote10]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 14. https://doi.org/10.22371/02.2017.018. 
+
+[^footnote11]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 10. https://doi.org/10.22371/02.2017.018. 
+
+[^footnote3]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 33. https://doi.org/10.22371/02.2017.018. 
 
 ## Liberalizing the Lager
 
@@ -84,8 +109,3 @@ The Bates Bill represents two key shifts in American culture in the late 1970s. 
 
 The Bates Bill exemplifies a broader trend within American society in the 1970s and 80s, effectively creating a hobbyist to entrepreneur pipeline for Craft and Home Brewers. 
 
-
-
----
-
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
