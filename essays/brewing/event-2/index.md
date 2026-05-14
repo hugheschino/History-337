@@ -90,9 +90,9 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
 
 By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry in 1988. “Initially, brewers were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.” [^footnote29]  What began as an alternative to standardized beer and began as a counterculture movement started to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.[^footnote30] By the 1990s, the Craft Brewing Industry was enduring a critical shift toward commodification and competition that transcended Bill Owens' quest to merely be the first "true" brewery. 
 
-[^footnote29]: Thomas M. Burns, Jr., Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
+[^footnote29]: Thomas M. Burns, Jr., Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
 
-[^footnote30]: Francis W. Cattani, Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf
+[^footnote30]: Francis W. Cattani, Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf.
 
 ## Conclusion
 
